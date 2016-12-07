@@ -1,0 +1,14 @@
+{
+  "autoload": {
+    "psr-4": { "Fosyl\\Bridge\\NestedSetForArchetype\\": "src/" }
+  },
+  "autoload-dev": {
+    "psr-4": { "spec\\Fosyl\\Bridge\\NestedSetForArchetype\\": "spec/" }
+  },
+  "require": {
+    "sylius/resource": "*"
+  },
+  "require-dev": {
+    "phpspec/phpspec": "^3.0"
+  }
+}

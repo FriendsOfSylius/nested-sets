@@ -1,0 +1,4 @@
+suites:
+  default:
+    namespace: Fosyl\Bridge\NestedSetForArchetype
+    psr4_prefix: Fosyl\Bridge\NestedSetForArchetype
